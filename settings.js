@@ -58,7 +58,7 @@ global.vcardowner = ['923165123719'] //ur owner number
 global.ownername = "DARK DEVIL 😈" //ur owner name
 global.ytname = "YT:UMAR MODS" //ur yt chanel name
 global.socialm = "GitHub: Umar" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Pakistan, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['wa.me/923165123719']
@@ -69,7 +69,7 @@ global.websitex = "https://www.youtube.com/c/UMARMODS" //ur website to be displa
 global.botscript = 'https://github.com/LunLeloTum😅🤣/' //script link
 global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "It's Umar Devil\n\n\n\n\n\n\n\n\n\n\n+923165123719 😈😈😈" //ur sticker watermark packname
+global.packname = "IT'S UMAR DEVIL \n\n\n\n\n\n\n\n\n\n\n+ 9 2 3 1 6 5 1 2 3 7 1 9 😈😈😈" //ur sticker watermark packname
 global.author = "UMAR DEVIL👿" //ur sticker watermark author
 
 //Bot theme media

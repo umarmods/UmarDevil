@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923165123719'] //ur owner number
+global.vcardowner = ['27676555735'] //ur owner number
 global.ownername = "UMAR DEVIL" //ur owner name
 global.ytname = "YT:UMAR MODS" //ur yt chanel name
 global.socialm = "GitHub: Umar" //ur github or insta name
 global.location = "Pakistan, Islamabad, Rawalpindi" //ur location
 
 //bot bomdy 
-global.owner = ['wa.me/923165123719']
-global.ownertag = '923165123719' //ur tag number
+global.owner = ['wa.me/+27676555735']
+global.ownertag = '27676555735' //ur tag number
 global.botname = 'UMAR DEVIL Bot MD V4' //ur bot name
 global.linkz = "https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/c/UMARMODS" //ur website to be displayed
@@ -70,7 +70,7 @@ global.botscript = 'https://wa.me/923165123719/' //script link
 global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
 global.packname = "IT'S UMAR DEVIL \n\n\n\n\n\n\n\n\n\n\n+9 2 3 1 6 5 1 2 3 7 1 9😈😈😈" //ur sticker watermark packname
-global.author = "DARK UMAR👿" //ur sticker watermark author
+global.author = "SEVEN👿" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['923165123719'] //ur premium numbers
+global.premium = ['27676555735'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []

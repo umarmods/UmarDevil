@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['50051039'] //ur owner number
+global.vcardowner = ['436805565555'] //ur owner number
 global.ownername = "「𝐕͢𝐘𝐏𝐑𝐗𝐗" //ur owner name
 global.ytname = "YT:UMAR MODS" //ur yt chanel name
 global.socialm = "GitHub: Umar" //ur github or insta name
 global.location = "Pakistan, Islamabad, Rawalpindi" //ur location
 
 //bot bomdy 
-global.owner = ['wa.me/50051039']
-global.ownertag = '50051039' //ur tag number
+global.owner = ['wa.me/436805565555']
+global.ownertag = '436805565555' //ur tag number
 global.botname = '「𝐕͢𝐘𝐏𝐑𝐗𝐗」Bot MD V4' //ur bot name
-global.linkz = "wa.me/50051039" //your theme url which will be displayed on whatsapp
+global.linkz = "wa.me/436805565555" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/c/UMARMODS" //ur website to be displayed
-global.botscript = 'https://wa.me/50051039/' //script link
+global.botscript = 'https://wa.me/436805565555/' //script link
 global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "IT'S VYPRXX \n\n\n\n\n\n\n\n\n\n\n +5 0 0 5 1 0 3 9😈😈😈" //ur sticker watermark packname
+global.packname = "IT'S VYPRXX \n\n\n\n\n\n\n\n\n\n\n +436805565555😈😈😈" //ur sticker watermark packname
 global.author = "VYPRXX👿" //ur sticker watermark author
 
 //Bot theme media
